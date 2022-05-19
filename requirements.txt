@@ -1,0 +1,8 @@
+######## requirements.txt ########
+# used by pipeline and docker image
+
+###### Requirements with Version Specifiers ######
+#   See https://www.python.org/dev/peps/pep-0440/#version-specifiers 
+
+pyMongo == 4.1.1
+flask == 2.1.2
